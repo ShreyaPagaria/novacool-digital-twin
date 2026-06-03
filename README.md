@@ -13,3 +13,6 @@ python task5_rl_environment/run_task5.py
 
 Outputs are saved in `outputs/`.
 
+All the assumptions and calibrations are mentioned in: Assumptions.pdf
+&
+All the writeup & results (plots etc.) are in: Writeup.pdf
